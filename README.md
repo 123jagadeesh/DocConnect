@@ -109,7 +109,7 @@ These instructions will help you get DocConnect up and running on your local mac
     *   Located in the `frontend` directory.
     *   Uses React components for building the user interface (found in `frontend/src/pages` and `frontend/src/components`).
     *   Utilizes `frontend/src/lib/api.js` to make API calls to the backend.
-    *   Styled with Tailwind CSS (configured in `frontend/tailwind.config.js` and `frontend/src/styles/globals.css`).
+
 *   **Backend (Node.js/Express):**
     *   Located in the `backend` directory.
     *   Uses Express.js to handle routing and HTTP requests.
@@ -136,10 +136,3 @@ These instructions will help you get DocConnect up and running on your local mac
         *   **Add Doctors:** Navigate to the "Doctors" section to register new doctors, including their specialization and contact information.
         *   **Map Patients and Doctors:** Use the "Mappings" feature to link patients to specific doctors, establishing the connection for appointments and communication.
 
-### Contributing
-
-[Explain how others can contribute to your project. Include guidelines for submitting pull requests, coding standards, etc.]
-
-### License
-
-[Specify the license under which your project is distributed. e.g., MIT License, Apache 2.0, etc.]
